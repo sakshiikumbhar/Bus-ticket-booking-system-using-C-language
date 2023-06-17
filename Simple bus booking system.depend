@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1670078068 source:c:\users\niteen\onedrive\documents\september c\c programs\assignment\simple bus ticket booking\simple bus booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<inttypes.h>
+
+1670078068 source:c:\users\niteen\onedrive\documents\september c\c programs\assignment\simple bus ticket booking system\simple bus booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<inttypes.h>
+
+1670078068 source:c:\users\niteen\onedrive\documents\september batch\c programs\assignment\simple bus ticket booking system\simple bus booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<inttypes.h>
+
+1684076348 source:c:\users\niteen\onedrive\documents\september batch\c\c programs\assignment\simple bus ticket booking system\simple bus booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<inttypes.h>
+
